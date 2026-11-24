@@ -1,0 +1,27 @@
+h2 {
+    color: azure;
+}
+
+#p3 {
+    color: blue;
+}
+
+#p5 {
+    color: tomato;
+}
+
+#p6 {
+    color: rgb(102, 222, 255)
+}
+
+#p7 {
+    color: #59ff5f;
+}
+
+#p8 {
+    color: hsl(283, 100%, 64%);
+}
+
+.even {
+    color: red;
+}
