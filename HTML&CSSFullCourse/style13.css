@@ -1,0 +1,50 @@
+h1 {
+    font-family: verdana, arial;
+    border-style: outset;
+    border-width: 12px;
+    border-color: brown;
+    border-radius: 15px;
+    text-shadow: 3px 3px 5px red, -3px -3px 5px yellow;
+}
+
+p {
+    font-family: "lucida console", 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 3px solid blueviolet;
+    border-top: 3px solid green;
+    border-left: 3px solid yellow;
+    border-right: 3px dotted red;
+    border-radius: 10px;
+}
+
+#box1 {
+    width: 100px;
+    height: 100px;
+    background-color: chocolate;
+    box-shadow: 3px 3px 5px;
+}
+
+body {
+    margin: 0px;
+}
+
+.box {
+    border: 5px solid;
+    font-size: 5em;
+    width: 250px;
+    height: 250px;
+}
+
+#box2 {
+    background-color: brown;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+}
+
+#box3 {
+    background-color: blueviolet;
+    margin: auto;
+}
